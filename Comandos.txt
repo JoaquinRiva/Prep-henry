@@ -1,0 +1,7 @@
+cd = Cambiar de directorio
+cd .. = volver atras en el directorio
+mkdir = crea carpeta
+touch = crea un archivo
+rm = elimina el archivo indicado
+rm -r = elimina una carpeta indicada
+help = muestra codigos basicos
